@@ -13,8 +13,8 @@ Requisitos Previos
 
 Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes programas:
 
-- Node.js 18.19.1
-- npm 10.2.4
+- Node.js 18.2.12
+- npm 10.8.2
 - Angular CLI 17.3.0
 
 ### Instalación
